@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Capt. Janeway",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/44/Kathryn_Janeway%2C_2371.jpg/revision/latest/scale-to-width-down/350?cb=20090531122034&path-prefix=en",
+    "occupation": "Captain",
+    "location": "USS Voyager"
+  },
+  {
+    "id": 2,
+    "name": "Capt. Picard",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/a/a0/Jean_Luc_Picard_2364.jpg/revision/latest/scale-to-width-down/350?cb=20161120233426&path-prefix=en",
+    "occupation": "Captain",
+    "location": "USS Enterprise D/E"
+  },
+  {
+    "id": 3,
+    "name": "Commander Sisko",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/e/ef/Benjamin_Sisko%2C_2367.jpg/revision/latest/scale-to-width-down/350?cb=20120418021047&path-prefix=en",
+    "occupation": "Commander/Emissary",
+    "location": "Deep Space Nine"
+  },
+  {
+    "id": 4,
+    "name": "Capt. Lorka",
+    "image": "http://c-8oqtgrjgwu46x24x78kipgvvgx2eykmkcx2epqeqqmkgx2epgv.g00.wikia.com/g00/3_c-8ogoqta-cnrjc.ykmkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fx78kipgvvg.ykmkc.pqeqqmkg.pgvx2fogoqtacnrjcx2fkocigux2f1x2f1hx2fIcdtkgn_Nqtec.lrix2ftgx78kukqpx2fncvguvx2fuecng-vq-ykfvj-fqypx2f572x3fedx3d42393253247251x26rcvj-rtghkzx3dgpx26k32e.octm.kocig.varg_$/$/$/$/$/$/$/$/$/$",
+    "occupation": "Captain",
+    "location": "USS Discovery"
+  },
+  {
+    "id": 5,
+    "name": "Capt. Kirk",
+    "image": "http://c-8oqtgrjgwu46x24x78kipgvvgx2eykmkcx2epqeqqmkgx2epgv.g00.wikia.com/g00/3_c-8ogoqta-cnrjc.ykmkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fx78kipgvvg.ykmkc.pqeqqmkg.pgvx2fogoqtacnrjcx2fkocigux2fex2fe6x2fLcogu_Mktmx254E_4487.lrix2ftgx78kukqpx2fncvguvx2fuecng-vq-ykfvj-fqypx2f572x3fedx3d42332639265860x26rcvj-rtghkzx3dgpx26k32e.octm.kocig.varg_$/$/$/$/$/$/$/$/$/$",
+    "occupation": "Captain",
+    "location": "USS Enterprise"
+  },
+  {
+    "id": 6,
+    "name": "Michael Burnham",
+    "image": "http://c-8oqtgrjgwu46x24x78kipgvvgx2eykmkcx2epqeqqmkgx2epgv.g00.wikia.com/g00/3_c-8ogoqta-cnrjc.ykmkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fx78kipgvvg.ykmkc.pqeqqmkg.pgvx2fogoqtacnrjcx2fkocigux2f5x2f53x2fOkejcgn_Dwtpjco.lrix2ftgx78kukqpx2fncvguvx2fuecng-vq-ykfvj-fqypx2f572x3fedx3d42393245345979x26rcvj-rtghkzx3dgpx26k32e.octm.kocig.varg_$/$/$/$/$/$/$/$/$/$",
+    "occupation": "Mutineer",
+    "location": "USS Discovery"
+  },
+  {
+    "id": 7,
+    "name": "Lieutenant Dax",
+    "image": "http://c-8oqtgrjgwu46x24x78kipgvvgx2eykmkcx2epqeqqmkgx2epgv.g00.wikia.com/g00/3_c-8ogoqta-cnrjc.ykmkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fx78kipgvvg.ykmkc.pqeqqmkg.pgvx2fogoqtacnrjcx2fkocigux2f7x2f7ex2fLcfbkc_Fczx254E_4596.lrix2ftgx78kukqpx2fncvguvx3fedx3d42283440282670x26rcvj-rtghkzx3dgpx26k32e.octm.kocig.varg_$/$/$/$/$/$/$/$",
+    "occupation": "Science officer",
+    "location": "Deep Space Nine"
+  },
+  {
+    "id": 8,
+    "name": "Spock",
+    "image": "http://c-8oqtgrjgwu46x24x78kipgvvgx2eykmkcx2epqeqqmkgx2epgv.g00.wikia.com/g00/3_c-8ogoqta-cnrjc.ykmkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fx78kipgvvg.ykmkc.pqeqqmkg.pgvx2fogoqtacnrjcx2fkocigux2f4x2f49x2fUrqemx254E_4489.lrix2ftgx78kukqpx2fncvguvx3fedx3d42292024222433x26rcvj-rtghkzx3dgpx26k32e.octm.kocig.varg_$/$/$/$/$/$/$/$",
+    "occupation": "Science Officer",
+    "location": "Alpha Quadrant"
+  },
+  {
+    "id": 9,
+    "name": "Quark",
+    "image": "http://c-8oqtgrjgwu46x24x78kipgvvgx2eykmkcx2epqeqqmkgx2epgv.g00.wikia.com/g00/3_c-8ogoqta-cnrjc.ykmkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fx78kipgvvg.ykmkc.pqeqqmkg.pgvx2fogoqtacnrjcx2fkocigux2fhx2fh4x2fSwctmx254E_4592.lrix2ftgx78kukqpx2fncvguvx2fuecng-vq-ykfvj-fqypx2f572x3fedx3d42363425232963x26rcvj-rtghkzx3dgpx26k32e.octm.kocig.varg_$/$/$/$/$/$/$/$/$/$",
+    "occupation": "Entreprenuer",
+    "location": "Ferengenar"
+  },
+  {
+    "id": 10,
+    "name": "Gorn",
+    "image": "http://www.kethinov.com/images/startrek/TOS1x18.png",
+    "occupation": "Lizard Monster",
+    "location": "Class M Planet, Alpha Quadrant"
+  },
+  {
+    "id": 11,
+    "name": "Warf",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/d/db/Worf%2C_2364.jpg/revision/latest/scale-to-width-down/350?cb=20161120213056&path-prefix=en",
+    "occupation": "Lieutenant Commander",
+    "location": "Qo'nos"
+  },
+  {
+    "id": 12,
+    "name": "Kahn Noonien Sing",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/2/26/Khan_Noonien_Singh%2C_2285.jpg/revision/latest/scale-to-width-down/350?cb=20130625043613&path-prefix=en",
+    "occupation": "Leader, Eugenics Wars",
+    "location": "Ceti Alpha V"
+  }
+]
