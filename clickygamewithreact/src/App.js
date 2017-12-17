@@ -8,7 +8,9 @@ import "./App.css";
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    friends
+    friends: friends,
+    highestScore: 0,
+    score: 0,
   };
 
   removeFriend = id => {
@@ -18,13 +20,30 @@ class App extends Component {
     this.setState({ friends });
   };
 
+  updateScore = () => {
+    this.setState({score: this.state.score + 1});
+    //when clicked for the first instance, score + 1 and pictures randomize.
+    //second instance, game resets
+    //this.setState(freinds: newFreindsarray)
+  };
+
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
       <Wrapper>
-        <div class = 'navbar'><Title>Clicky Game!</Title></div>
+        <nav className = 'navbar'>
+        <Title 
+         highestScore = {this.state.highestScore}
+         score = {this.state.score}
+        />
+
+
+        </nav>
+       
+
         {this.state.friends.map(friend => (
           <FriendCard
+            updateScore={this.updateScore}
             removeFriend={this.removeFriend}
             id={friend.id}
             key={friend.id}

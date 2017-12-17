@@ -9,3 +9,13 @@
   align-content: flex-start;
   overflow: auto;
 }
+
+.navbar{
+	width: 100%;
+	background-color: blue;
+
+}
+ 
+.title{
+	color: white;
+}
